@@ -70,7 +70,7 @@ class PyTest(TestCommand):
 
 
 setup(
-    name='responses',
+    name='restless-responses',
     version='0.6.1.dev0',
     author='David Cramer',
     description=(
